@@ -6,18 +6,18 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    Led and architected Quality strategies for critical functions for the SimpliVity OmniCube, a top-tier <mark>Hyperconverged</mark> Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE and continuing into key solutions for <mark>VDI</mark>, <mark>Kubernetes</mark> and Google Anthos applications.
+    Led and architected Quality strategies for critical functions for the SimpliVity OmniCube, a top-tier <mark>Hyperconverged</mark> Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE and continuing into key solutions for VDI, <mark>Kubernetes</mark> and Google Anthos applications.
 
     *	Founding member of the Quality Organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration. These efforts helped deliver a successful launch of the V1.0 OmniCube at VMWorld.  Provided global trade show product demonstrations, demo setup and helping define talk tracks with marketing.
     *	Creating a <mark>Reference Architecture</mark> and Qualification of the Google Anthos Kubernetes solution on HPE SimpliVity.  Qualification of Ansible playbooks for Kubernetes deployment.  Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
     *	Creating <mark>Python scripts</mark> to utilize SimpliVity Backup and Restore Rest APIs for Kubernetes Persistent Volumes.  
     *	Created EUC solutions and quality validation with <mark>Citrix XenDesktop</mark> and <mark>Horizon View</mark>.  Developed VDI Reference Architecture content and documentation.  Continuing consultation for VDI customer Proof of Concepts and architectures.
     *	<mark>Product Owner</mark> responsibilities creating stories for VDI reference architecture and qualifications based on interaction with Product Management.
-    *	Login VSI Performance testing and sizing creation for VDI infrastructures.
+    *	Login VSI Performance testing and sizing creation for <mark>VDI</mark> infrastructures.
     *	Key contributing leader on the SimpliVity release team chartered with releasing software in an agile environment on time with high quality.  Managing Critical defects and assessing customer impact for decisions on release inclusion.
-    *	Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining and support.  Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality.  Initiated product improvement efforts from code change recommendations through documentation.
+    *	Initiated and outlined internal <mark>Data Unavailable/Data Loss program</mark> for SimpliVity with close interaction through engineering, sustaining and support.  Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality.  Initiated product improvement efforts from code change recommendations through documentation.
     *	Assisted in lab planning and architecture by designing solutions that included the HPE SimpliVity product to simplify lab management, VM management and lifecycle management.
-    *	led a Test Escape program to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across the customer based, root cause and prioritize and partner with Product Management to place in the backlog
+    *	led a <mark>Test Escape program</mark> to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across the customer based, root cause and prioritize and partner with Product Management to place in the backlog
     *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines.  Makes decisions on approving customer configurations and recommends alternative product solutions and architectures.  Pilots viability of customer requests with technical validation.
     *	Piloted, setup and administration of internal Test Rail repository for test case management in an Agile workflow with integration into Jira.
 
@@ -38,7 +38,7 @@
     *	Advanced storage testing tools expert for distance emulation and initiator/target virtualization.
     *	Piloting proof of concepts for advanced testing simulation hardware.
     *	Multi-protocol lab infrastructure architect, coordinated multi-million dollar local and remote lab move.
-    *	VMware and Hyper-V setup and usage for <mark>iSCSI</mark> and Direct path HBA testing.
+    *	<mark>VMware</mark> and Hyper-V setup and usage for <mark>iSCSI</mark> and Direct path HBA testing.
     *	Lead for transitioning core QA test repository into a unified test management system.
 
 - layout: left
