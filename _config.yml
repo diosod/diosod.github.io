@@ -16,7 +16,8 @@ linkedin_username: ddiosomito
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Principal Solutions and System Engineer in the virtualization, networking and storage industries with a proven record of product qualifications and solution reference architectures meeting the needs of the business, the expectations of the customer and the high standards of the company using multiple methodologies including Agile, Scrum, Waterfall.
+  Principal Solutions and System Engineer in the virtualization, networking and storage industries with a proven record of product qualifications and solution reference architectures meeting the needs of the business, the expectations of the customer and the high standards of the company using multiple methodologies including Agile, Scrum, Waterfall.
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
