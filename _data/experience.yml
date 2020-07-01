@@ -21,3 +21,49 @@
     *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines.  Makes decisions on approving customer configurations and recommends alternative product solutions and architectures.  Pilots viability of customer requests with technical validation.
     *	Piloted, setup and administration of internal Test Rail repository for test case management in an Agile workflow with integration into Jira.
 
+- layout: left
+  company: EMC
+  #link: dell.com
+  job_title: Principal System and Software Quality Engineer
+  dates: 2004 - 2012
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    Team lead focused on the qualification of EMC mid-range storage devices with a variety of tools and maintaining an end to end customer environment lab.
+
+    *	Functional and system software testing for EMCs core midrange storage array portfolio.
+    *	Setup of SANs and networking while building and maintaining enterprise level environments from server to storage.              
+    *	Crafting functional and system level test plans based on Functional design specifications, personal interaction with lead developers, customer configuration analysis and field defect analysis.
+    *	Key QA feature lead in multiple EMC VNX core features and functionality.
+    *	Advanced storage testing tools expert for distance emulation and initiator/target virtualization.
+    *	Piloting proof of concepts for advanced testing simulation hardware.
+    *	Multi-protocol lab infrastructure architect, coordinated multi-million dollar local and remote lab move.
+    *	VMware and Hyper-V setup and usage for iSCSI and Direct path HBA testing.
+    *	Lead for transitioning core QA test repository into a unified test management system.
+
+- layout: left
+  company: Hewlett Packard Corporation
+  #link: hpe.com
+  job_title: System and Software Quality Engineer
+  dates: 2001 - 2004
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    iSCSI and Fibre channel array qualification while building lab environments.
+
+    *	Planned resource load balancing and disaster recovery during creation of multi-node Windows clustered environments while administrating Windows Active Directory.
+    *	Authored and updated test plans based on functional requirements, design reviews with lead architects, and customer defects.
+    *	Assisted field service engineers by replicating escalated customer issues finding key problem areas with configuration or code defects.
+    *	Automated failure scenarios for RAID controller firmware and Fibre Channel Switches using Rational Visual test.
+    *	iSCSI configuration testing using Cisco routers and Compaq storage for initial interoperability testing with a variety of third party software.
+    *	Attended code reviews to create test plan for initial unit testing of new code. 
+
+- layout: left
+  company: Compaq Computer Corporation
+  #link: hpe.com
+  job_title: System and Software Quality Engineer
+  dates: 1998 - 2000
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    16 months experience through a cooperative education program focused on Multi-Pathing software and Microsoft Hardware Compatibility certifications
