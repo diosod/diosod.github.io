@@ -4,20 +4,20 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Darryl Diosomito
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Principal Solutions and System Engineer 
+email: ddiosomito@gmail.com
+
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+#github_username:  diosod
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: ddiosomito
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -25,6 +25,13 @@ youtube_username: globalmtb
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Principal Solutions and System Engineer in the virtualization, networking and storage industries with a proven record of product qualifications and solution reference architectures meeting the needs of the business, the expectations of the customer and the high standards of the company using multiple methodologies including Agile, Scrum, Waterfall.
+  
+* 7 years experience creating in depth solutions and performance validation with VDI and recently Kubernetes solutions with end to end virtualization infrastructure management.
+*	Excels at working in dynamic environments with shifting priorities to deliver projects on schedule.
+*	Strong communication, planning and implementation skills for quality and product release initiatives.
+*	Manages virtualization environments utilizing VMware and Hyper-V.
+*	Proven adaptive self-starter who has the ability to prioritize tasks and provides forward looking technical insight with minimal supervision.
+
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
