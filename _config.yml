@@ -33,8 +33,6 @@ about_content: | # this will include new lines to allow paragraphs
   *	Proven adaptive self-starter who has the ability to prioritize tasks and provides forward looking technical insight with minimal supervision.
 
 
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 # Projects Section
 # projects_title: Projects
 
@@ -48,6 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Certifications
 more_content: | # this will include new lines to allow paragraphs
   Certified Product Owner
+  
   Architecting with Google Kubernetes Engine
 
 
