@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   *	Proven adaptive self-starter who has the ability to prioritize tasks and provides forward looking technical insight with minimal supervision.
 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects

@@ -1,9 +1,23 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: HPE SimpliVity (formerly, SimpliVity Corporation)
+  #link: hpe.com
+  job_title: Master Systems and Solutions Software Engineer
+  dates: 2012 - present
+  #quote: >
+  # Text
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Led and architected Quality strategies for critical functions for the SimpliVity OmniCube, a top-tier Hyperconverged Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE and continuing into key solutions for VDI, Kubernetes and Google Anthos applications.
+
+    *	Founding member of the Quality Organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration. These efforts helped deliver a successful launch of the V1.0 OmniCube at VMWorld.  Provided global trade show product demonstrations, demo setup and helping define talk tracks with marketing.
+    *	Creating a Reference Architecture and Qualification of the Google Anthos Kubernetes solution on HPE SimpliVity.  Qualification of Ansible playbooks for Kubernetes deployment.  Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
+    *	Creating Python scripts to utilize SimpliVity Backup and Restore Rest APIs for Kubernetes Persistent Volumes.  
+    *	Created EUC solutions and quality validation with Citrix XenDesktop and Horizon View.  Developed VDI Reference Architecture content and documentation.  Continuing consultation for VDI customer Proof of Concepts and architectures.
+    *	Product Owner responsibilities creating stories for VDI reference architecture and qualifications based on interaction with Product Management.
+    *	Login VSI Performance testing and sizing creation for VDI infrastructures.
+    *	Key contributing leader on the SimpliVity release team chartered with releasing software in an agile environment on time with high quality.  Managing Critical defects and assessing customer impact for decisions on release inclusion.
+    *	Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining and support.  Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality.  Initiated product improvement efforts from code change recommendations through documentation.
+    *	Assisted in lab planning and architecture by designing solutions that included the HPE SimpliVity product to simplify lab management, VM management and lifecycle management.
+    *	led a Test Escape program to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across the customer based, root cause and prioritize and partner with Product Management to place in the backlog
+    *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines.  Makes decisions on approving customer configurations and recommends alternative product solutions and architectures.  Pilots viability of customer requests with technical validation.
+    *	Piloted, setup and administration of internal Test Rail repository for test case management in an Agile workflow with integration into Jira.
+
