@@ -1,8 +1,20 @@
 - layout: left
+  company: Tuono
+  #link: https://www.tuono.com/
+  job_title: Customer Success Engineer
+  dates: 2020 - present
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    Customer Success organization helping users deploy Infrastructure as Code.
+
+    *	Simplifying cloud infrastructure automation!
+    
+- layout: left
   company: HPE SimpliVity (formerly, SimpliVity Corporation)
   #link: hpe.com
   job_title: Master Systems and Solutions Software Engineer
-  dates: 2012 - present
+  dates: 2012 - 2020
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
