@@ -6,9 +6,14 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    Customer Success organization helping users deploy Infrastructure as Code.
+    Working with customers to define product requirements and enabling businesses to build solutions in AWS and Azure utilizing Infrastructure as Code.  
 
-    *	Simplifying cloud infrastructure automation!
+    *	Created and authored a series of blogs and Hands-On labs that guide users through creating cloud infrastructure, step by step, in AWS and Azure.
+    * Provided customer demos of the Tuono product and guided walkthroughs on cloud infrastructure resources.
+    * Guided users through AWS and Azure application configuration utilizing load balancers, scale sets, containers and networking setup and security.  Container deployments with Azure ACI and Amazon ECS.
+    * Verification of new feature sets and Python API scripting for integration into customer use cases.
+    * Influencing product direction in the UI and feature set based on customer feedback and product interaction.
+
     
 - layout: left
   company: HPE SimpliVity (formerly, SimpliVity Corporation)
