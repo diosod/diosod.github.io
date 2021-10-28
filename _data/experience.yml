@@ -1,8 +1,24 @@
 - layout: left
-  company: Tuono
+  company: CloudTruth
+  #link: https://www.cloudtruth.com/
+  job_title: Customer Success Engineer
+  dates: 2021 - present
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    Creating and prioritizing a product backlog for a Devops Configuration platform based on user feedback.   
+
+    *	Authored technical blogs for Terraform, Terragrunt and Kubernetes configuration management strategies.
+    * Providing prospects and end users with demos and technical product guidance and solutions.
+    *	Coordinating build and release schedules along with product feature qualification.
+    * Created technical documentation and use cases to highlight the product feature set and solution integrations.
+
+    
+- layout: left
+  company: Tuono (Merged with CloudTruth)
   #link: https://www.tuono.com/
   job_title: Customer Success Engineer
-  dates: 2020 - present
+  dates: 2020 - 2021
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
