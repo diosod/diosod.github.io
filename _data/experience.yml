@@ -26,7 +26,7 @@
 
     *	Created and authored a series of blogs and Hands-On labs that guide users through creating cloud infrastructure, step by step, in AWS and Azure.
     * Provided customer demos of the Tuono product and guided walkthroughs on cloud infrastructure resources.
-    * Guided users through AWS and Azure application configuration utilizing load balancers, scale sets, containers and networking setup and security.  Container deployments with Azure ACI and Amazon ECS.
+    * Guided users through AWS and Azure application configuration utilizing load balancers, scale sets, containers and networking setup and security. Container deployments with Azure ACI and Amazon ECS.
     * Verification of new feature sets and Python API scripting for integration into customer use cases.
     * Influencing product direction in the UI and feature set based on customer feedback and product interaction.
 
@@ -41,17 +41,17 @@
   description: | # this will include new lines to allow paragraphs
     Led and architected Quality strategies for critical functions for the SimpliVity OmniCube, a top-tier Hyperconverged Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE and continuing into key solutions for VDI, Kubernetes and Google Anthos applications.
 
-    *	Founding member of the quality organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration. These efforts helped deliver a successful launch of the V1.0 OmniCube at VMWorld.  Provided global trade show product demonstrations, demo setup and helping define talk tracks with marketing.
-    *	Creating a Reference Architecture and Qualification of the Google Anthos Kubernetes solution on HPE SimpliVity.  Qualification of Ansible playbooks for Kubernetes deployment.  Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
+    *	Founding member of the quality organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration. These efforts helped deliver a successful launch of the V1.0 OmniCube at VMWorld. Provided global trade show product demonstrations, demo setup and helping define talk tracks with marketing.
+    *	Creating a Reference Architecture and Qualification of the Google Anthos Kubernetes solution on HPE SimpliVity. Qualification of Ansible playbooks for Kubernetes deployment. Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
     *	Creating Python scripts to utilize SimpliVity Backup and Restore Rest APIs for Kubernetes Persistent Volumes.  
-    *	Created EUC solutions and quality validation with Citrix XenDesktop and Horizon View.  Developed VDI Reference Architecture content and documentation.  Continuing consultation for VDI customer Proof of Concepts and architectures.
+    *	Created EUC solutions and quality validation with Citrix XenDesktop and Horizon View. Developed VDI Reference Architecture content and documentation. Continuing consultation for VDI customer Proof of Concepts and architectures.
     *	Product Owner responsibilities creating stories for VDI reference architecture and qualifications based on interaction with Product Management.
     *	Login VSI Performance testing and sizing creation for VDI infrastructures.
-    *	Key contributing leader on the SimpliVity release team chartered with releasing software in an agile environment on time with high quality.  Managing Critical defects and assessing customer impact for decisions on release inclusion.
-    *	Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining and support.  Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality.  Initiated product improvement efforts from code change recommendations through documentation.
+    *	Key contributing leader on the SimpliVity release team chartered with releasing software in an agile environment on time with high quality. Managing Critical defects and assessing customer impact for decisions on release inclusion.
+    *	Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining and support. Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality. Initiated product improvement efforts from code change recommendations through documentation.
     *	Assisted in lab planning and architecture by designing solutions that included the HPE SimpliVity product to simplify lab management, VM management and lifecycle management.
-    *	Led a test escape program to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across the customer based, root cause and prioritize and partner with Product Management to place in the backlog
-    *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines.  Makes decisions on approving customer configurations and recommends alternative product solutions and architectures.  Pilots viability of customer requests with technical validation.
+    *	Led a test escape program to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across and prioritize. Partnered with Product Management to prioritize in the global backlog.
+    *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines. Makes decisions on approving customer configurations and recommends alternative product solutions and architectures. Pilots viability of customer requests with technical validation.
     *	Piloted, setup and administration of internal Test Rail repository for test case management in an Agile workflow with integration into Jira.
 
 - layout: left
