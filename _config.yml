@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Darryl Diosomito
-title: Principal Solutions and System Engineer 
+title: Senior Solutions Architect
 email: ddiosomito@gmail.com
 
 
@@ -15,7 +15,7 @@ email: ddiosomito@gmail.com
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: darryl-diosomito-5b33907
+linkedin_username: darryl-diosomito
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,13 +24,11 @@ linkedin_username: darryl-diosomito-5b33907
 about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Principal Solutions and System Engineer in the virtualization, networking and storage industries with a proven record of product qualifications and solution reference architectures meeting the needs of the business, the expectations of the customer and the high standards of the company using multiple methodologies including Agile, Scrum, Waterfall.
-  
-  * 7 years experience creating in depth solutions and performance validation with VDI and recently Kubernetes solutions with end to end virtualization infrastructure management.
-  *	Excels at working in dynamic environments with shifting priorities to deliver projects on schedule.
-  *	Strong communication, planning and implementation skills for quality and product release initiatives.
-  *	Manages virtualization environments utilizing VMware and Hyper-V.
-  *	Proven adaptive self-starter who has the ability to prioritize tasks and provides forward looking technical insight with minimal supervision.
+Senior Solutions Architect with 20+ years of experience designing and delivering storage, infrastructure, and virtualization solutions for enterprise customers. Currently advising AWS customers on large-scale data migrations, cloud architecture, and service adoption. Influencing product roadmap through customer feedback, performance validation, and early-access programs. Proven leader across cross-functional teams spanning engineering, product, go-to-market, and field organizations.
+   
+AWS (Storage, Migration) | Azure | Google Cloud Platform | Roadmap influence | Backlog ownership | Cross-
+functional delivery | Public speaking | Risk management | Stakeholder communication | Storage | Networking |
+Multicloud Architecture | Virtualization | Executive presentations | Workshops | Technical content | Blogs
 
 
 # Projects Section
