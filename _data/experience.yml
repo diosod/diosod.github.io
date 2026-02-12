@@ -1,35 +1,36 @@
 - layout: left
-  company: CloudTruth
+  company: Amazon Web Services
+  #link: https://www.cloudtruth.com/
+  job_title: Senior Solutions Architect
+  dates: 2022 - present
+  #quote: >
+  # Text
+  description: | # this will include new lines to allow paragraphs
+    * Advised and earned the trust of top AWS customers supporting cloud data migrations with solution guidance and migration strategies.
+    * Informed service direction based on customer requirements and supported roadmap decisions by constructing early access programs to validate product assumptions and functionality.
+    * Authored 7 AWS blogs with 51,000+ page views, approved and consulted on 16 additional AWS posts.
+    * Produced enablement assets for field, partners, and customers to support feature adoption and launches. Led workshops, case studies, and authored official AWS documentation.
+    * Provided technical validation and performance testing of new service feature launches.
+    * Partnered with engineering, product management, go to market, support, and field to align on priorities, educate stakeholders, and grow service usage 75% from 2022 start date to 2025 end of year.
+    * Developed and presented AWS technical content at 4 AWS summits and 4 AWS re:Invent sessions with 4.6 - 5.0 customer satisfaction scores.
+    * Mentored solution architects and product managers providing a roadmap of enablement content and building their technical depth.
+
+- layout: left
+  company: CloudTruth/Tuono (Merged with CloudTruth)
   #link: https://www.cloudtruth.com/
   job_title: Customer Success Engineer
-  dates: 2021 - present
+  dates: 2021 - 2022
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    Creating and prioritizing a product backlog for a Devops Configuration platform based on user feedback.   
-
-    *	Authored technical blogs for Terraform, Terragrunt and Kubernetes configuration management strategies.
-    * Providing prospects and end users with demos and technical product guidance and solutions.
-    *	Coordinating build and release schedules along with product feature qualification.
-    * Created technical documentation and use cases to highlight the product feature set and solution integrations.
-
-    
-- layout: left
-  company: Tuono (Merged with CloudTruth)
-  #link: https://www.tuono.com/
-  job_title: Customer Success Engineer
-  dates: 2020 - 2021
-  #quote: >
-  # Text
-  description: | # this will include new lines to allow paragraphs
-    Working with customers to define product requirements and enabling businesses to build solutions in AWS and Azure utilizing Infrastructure as Code.  
-
-    *	Created and authored a series of blogs and Hands-On labs that guide users through creating cloud infrastructure, step by step, in AWS and Azure.
-    * Provided customer demos of the Tuono product and guided walkthroughs on cloud infrastructure resources.
+    * Worked with customers to define and refine product requirements and enabled businesses to build solutions in AWS and Azure utilizing Infrastructure as Code.
+    * Provided technical demos and product guidance to early customer base.
+    * Coordinated build and release schedules along with product feature qualification.
+    * Produced technical documentation and use cases to highlight product features and solution integrations.
+    * Authored AWS blogs and Hands-On labs for creating cloud infrastructure, step by step, in AWS and Azure.
     * Guided users through AWS and Azure application configuration utilizing load balancers, scale sets, containers and networking setup and security. Container deployments with Azure ACI and Amazon ECS.
-    * Verification of new feature sets and Python API scripting for integration into customer use cases.
-    * Influencing product direction in the UI and feature set based on customer feedback and product interaction.
-
+    * Influenced product direction in the UI and feature set based on customer feedback and product interaction.
+    * Created and maintained a prioritized product backlog for a Devops Configuration platform.
     
 - layout: left
   company: SimpliVity (Acquired by HPE)
@@ -39,20 +40,20 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    Led and architected Quality strategies for critical functions for the SimpliVity OmniCube, a top-tier Hyperconverged Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE and continuing into key solutions for VDI, Kubernetes and Google Anthos applications.
-
-    *	Founding member of the quality organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration. These efforts helped deliver a successful launch of the V1.0 OmniCube at VMWorld. Provided global trade show product demonstrations, demo setup and helping define talk tracks with marketing.
-    *	Creating a Reference Architecture and Qualification of the Google Anthos Kubernetes solution on HPE SimpliVity. Qualification of Ansible playbooks for Kubernetes deployment. Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
-    *	Creating Python scripts to utilize SimpliVity Backup and Restore Rest APIs for Kubernetes Persistent Volumes.  
-    *	Created EUC solutions and quality validation with Citrix XenDesktop and Horizon View. Developed VDI Reference Architecture content and documentation. Continuing consultation for VDI customer Proof of Concepts and architectures.
-    *	Product Owner responsibilities creating stories for VDI reference architecture and qualifications based on interaction with Product Management.
-    *	Login VSI Performance testing and sizing creation for VDI infrastructures.
-    *	Key contributing leader on the SimpliVity release team chartered with releasing software in an agile environment on time with high quality. Managing Critical defects and assessing customer impact for decisions on release inclusion.
-    *	Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining and support. Migrated the program to HPE after acquisition and active in data analysis and presentation to executive level readouts on product quality. Initiated product improvement efforts from code change recommendations through documentation.
-    *	Assisted in lab planning and architecture by designing solutions that included the HPE SimpliVity product to simplify lab management, VM management and lifecycle management.
-    *	Led a test escape program to close the loop on field found defects through regular meetings with Support to analyze high-impact defects across and prioritize. Partnered with Product Management to prioritize in the global backlog.
-    *	Deal Qualification Request team member that provides vetting of customer requests that are outside and above scope of current product guidelines. Makes decisions on approving customer configurations and recommends alternative product solutions and architectures. Pilots viability of customer requests with technical validation.
-    *	Piloted, setup and administration of internal Test Rail repository for test case management in an Agile workflow with integration into Jira.
+    * Architected Quality strategies for critical functions of the SimpliVity OmniCube, a top-tier Hyperconverged Infrastructure (HCI) product, from early phase stealth leading up to acquisition by HPE.
+    * Founding member of the quality organization tasked with creating test plans and strategies for Data Path, Control plane, GUI and Systems level integration.
+    * Launched V1.0 SimpliVity OmniCube at VMWorld. Provided global trade show product demonstrations, demo setup and helped define talk tracks with marketing.
+    * Produced reference architectures and qualification of the Google Anthos Kubernetes solution on HPE SimpliVity. Defining the SimpliVity value proposition for Anthos GKE on SimpliVity.
+    * Created EUC solutions and quality validation with Citrix XenDesktop and Horizon View.
+    * Developed VDI Reference Architecture content and documentation.
+    * Conducted consultation for VDI customer Proof of Concepts and architectures with LoginVSI.
+    * Managed Product Owner responsibilities for VDI reference architecture and qualifications.
+    * Initiated and outlined internal Data Unavailable/Data Loss program for SimpliVity with close interaction through engineering, sustaining, and support.
+    * Migrated critical programs to HPE after acquisition with active data analysis and executive level readouts on product quality.
+    * Coordinated lab planning and architecture by designing solutions that included the HPE SimpliVity product.
+    * Led a test escape program to close the loop on field found defects, informing release prioritization decisions through regular cross-team reviews. Partnered with Product Management to prioritize in the global backlog.
+    * Provided vetting of customer deal qualification requests that were outside and above the scope of current product guidelines.
+    * Approved customer configurations and recommended alternative product solutions and architectures. Performed technical validation of customer requests.
 
 - layout: left
   company: EMC
@@ -62,17 +63,12 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    Team lead focused on the qualification of EMC mid-range storage devices with a variety of tools and maintaining an end to end customer environment lab.
+    * Led qualification of EMC mid-range storage devices and customer lab environment.
+    * Configured SANs and networking while building enterprise environments from server to storage.
+    * Crafted functional and system level test plans based on Functional design specifications.
+    * Conducted advanced storage testing qualifications for distance emulation and initiator/target virtualization.
+    * Multi-protocol lab infrastructure architect, coordinated multi-million dollar lab move.
 
-    *	Functional and system software testing for EMCs core midrange storage array portfolio.
-    *	Setup of SANs and networking while building and maintaining enterprise level environments from server to storage.              
-    *	Crafting functional and system level test plans based on Functional design specifications, personal interaction with lead developers, customer configuration analysis and field defect analysis.
-    *	Key QA feature lead in multiple EMC VNX core features and functionality.
-    *	Advanced storage testing tools expert for distance emulation and initiator/target virtualization.
-    *	Piloting proof of concepts for advanced testing simulation hardware.
-    *	Multi-protocol lab infrastructure architect, coordinated multi-million dollar local and remote lab move.
-    *	VMware and Hyper-V setup and usage for iSCSI and Direct path HBA testing.
-    *	Lead for transitioning core QA test repository into a unified test management system.
 
 - layout: left
   company: Hewlett Packard Corporation
@@ -82,14 +78,9 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    iSCSI and Fibre channel array qualification while building lab environments.
-
-    *	Planned resource load balancing and disaster recovery during creation of multi-node Windows clustered environments while administrating Windows Active Directory.
-    *	Authored and updated test plans based on functional requirements, design reviews with lead architects, and customer defects.
-    *	Assisted field service engineers by replicating escalated customer issues finding key problem areas with configuration or code defects.
-    *	Automated failure scenarios for RAID controller firmware and Fibre Channel Switches using Rational Visual test.
-    *	iSCSI configuration testing using Cisco routers and Compaq storage for initial interoperability testing with a variety of third party software.
-    *	Attended code reviews to create test plan for initial unit testing of new code. 
+    * Qualified iSCSI and Fibre Channel arrays and built storage lab environments.
+    * Planned resource load balancing and disaster recovery during creation of Windows clustered environments.
+    * Supported field service engineers by replicating escalated customer issues.
 
 - layout: left
   company: Compaq Computer Corporation
@@ -99,4 +90,4 @@
   #quote: >
   # Text
   description: | # this will include new lines to allow paragraphs
-    16 months experience through a cooperative education program focused on Multi-Pathing software and Microsoft Hardware Compatibility certifications
+    * Gained 16 months experience through a co-op program focused on multi-pathing software and certifications.
