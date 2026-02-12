@@ -31,7 +31,7 @@ content:
     layout: text # Type of content section (list/text)
     content:
       - layout: left
-        description:  
+        description: |  
           AWS (Storage, Migration) - Azure - Google Cloud Platform - Roadmap influence - Backlog ownership - Cross-functional delivery 
           Public speaking - Risk management - Stakeholder communication - Storage - Networking - Multicloud Architecture - Virtualization - 
           Executive presentations - Workshops - Technical content - Blogs
