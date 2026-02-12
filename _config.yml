@@ -24,11 +24,11 @@ linkedin_username: darryl-diosomito
 about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Senior Solutions Architect with 20+ years of experience designing and delivering storage, infrastructure, and virtualization solutions for enterprise customers. Currently advising AWS customers on large-scale data migrations, cloud architecture, and service adoption. Influencing product roadmap through customer feedback, performance validation, and early-access programs. Proven leader across cross-functional teams spanning engineering, product, go-to-market, and field organizations.
+  Senior Solutions Architect with 20+ years of experience designing and delivering storage, infrastructure, and virtualization solutions for enterprise customers. Currently advising AWS customers on large-scale data migrations, cloud architecture, and service adoption. Influencing product roadmap through customer feedback, performance validation, and early-access programs. Proven leader across cross-functional teams spanning engineering, product, go-to-market, and field organizations.
    
-AWS (Storage, Migration)  Azure  Google Cloud Platform  Roadmap influence  Backlog ownership | Cross-
-functional delivery  Public speaking  Risk management Stakeholder communication  Storage Networking 
-Multicloud Architecture  Virtualization Executive presentations  Workshops  Technical content  Blogs
+  AWS (Storage, Migration) | Azure | Google Cloud Platform | Roadmap influence | Backlog ownership | Cross-
+  functional delivery | Public speaking | Risk management | Stakeholder communication | Storage | Networking |
+  Multicloud Architecture | Virtualization | Executive presentations | Workshops | Technical content | Blogs
 
 
 # Projects Section
